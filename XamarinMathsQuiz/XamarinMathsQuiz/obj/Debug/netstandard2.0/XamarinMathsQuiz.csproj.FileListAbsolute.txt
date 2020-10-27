@@ -1,0 +1,14 @@
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\bin\Debug\netstandard2.0\XamarinMathsQuiz.deps.json
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\bin\Debug\netstandard2.0\XamarinMathsQuiz.dll
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\bin\Debug\netstandard2.0\ref\XamarinMathsQuiz.dll
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\bin\Debug\netstandard2.0\XamarinMathsQuiz.pdb
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\obj\Debug\netstandard2.0\XamarinMathsQuiz.csprojAssemblyReference.cache
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\obj\Debug\netstandard2.0\XamarinMathsQuiz.AssemblyInfoInputs.cache
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\obj\Debug\netstandard2.0\XamarinMathsQuiz.AssemblyInfo.cs
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\obj\Debug\netstandard2.0\XamarinMathsQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\obj\Debug\netstandard2.0\XamarinMathsQuiz.dll
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\obj\Debug\netstandard2.0\ref\XamarinMathsQuiz.dll
+C:\Users\Edrissa\source\repos\XamarinMathsQuiz\XamarinMathsQuiz\XamarinMathsQuiz\obj\Debug\netstandard2.0\XamarinMathsQuiz.pdb
